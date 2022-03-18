@@ -1,0 +1,111 @@
+/* Style PG - index.html*/
+body{
+    background-color: white;
+}
+
+
+h1{
+    background: #c2c2c5;
+    text-align: center; 
+    text-shadow: 1px 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #231699
+    
+    
+    
+    }
+
+h2{
+    background: #c2c2c5;
+    text-align: center; 
+    text-shadow: 1px 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #231699
+
+    }
+
+#psobre{
+    position: relative;
+    display: flex;
+    font-size: 16px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 14px 32px
+
+}
+
+
+.tit01{
+    margin: 0px;
+    background-image: url(https://th.bing.com/th/id/OIP.oMF_wOP9EyYGiGsXGjbdcgHaHa?pid=ImgDet&rs=1);
+    font-size: 35px;
+    border: 5px outset #0000e6;
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+
+.coluna{
+
+    float: center;
+    width: 25%;   
+
+}
+.containerfotos{
+    content: "";
+    clear: both;
+    display: flex;
+    flex-wrap: nowrap;
+
+    }
+   
+     
+        
+      
+
+
+.paragrafo {
+
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+padding: 14px 32px
+
+}
+#menu li{
+    display: inline;
+    padding: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#menu li a:hover{
+    font-family: Arial, Helvetica, sans-serif;
+        border-radius: 4px;
+    background-color: #2d01f0;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding: 15px;
+    width: 100px;
+    cursor: pointer;
+    margin: 5px;
+
+    
+}
+
+/* Style PG - index.html*/
+
+.tm-social{
+    width: 50px;
+    height: 50px;
+    margin: 60px;
+
+}
+.dados-user{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+label{
+    padding: 30px;
+}
